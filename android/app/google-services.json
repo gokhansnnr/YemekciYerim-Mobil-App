@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749813308931",
+    "project_id": "kullanici-kayit-adres",
+    "storage_bucket": "kullanici-kayit-adres.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749813308931:android:906a63114646bb11e77836",
+        "android_client_info": {
+          "package_name": "com.example.yemekciyerim_bitirmepr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749813308931-b8bp7i0shhq7cvbo3ickrs9k98t3qq4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1--Q5NxJR52qXTsetXrEovOYx3FqVdUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749813308931-b8bp7i0shhq7cvbo3ickrs9k98t3qq4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
