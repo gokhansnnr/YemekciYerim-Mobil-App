@@ -322,9 +322,6 @@ class _SepetSayfaState extends State<SepetSayfa> {
               ),
               backgroundColor: Colors.green,
             ));
-            setState(() {
-              toplamUrunFiyat = 0;
-            });
           } else {
             ScaffoldMessenger.of(context).showSnackBar(SnackBar(
               content: Text(
